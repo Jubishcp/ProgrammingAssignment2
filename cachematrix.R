@@ -1,5 +1,5 @@
 ## Improve performance of martix inverse computation by caching
-# Sample Martix 
+# Example/Sample 
 
 # x <- rbind(c(1,-1,-1), c(-1,2,3),c(1,1,4))
 # c<-makeCacheMatrix(x)
